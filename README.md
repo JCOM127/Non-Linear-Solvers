@@ -1,6 +1,5 @@
 Nonlinear Equations Solvers: Bisection, Newton-Raphson, Secant, Fixed Point Iteration, and Newton's Method with Multiple Roots
 
-Description:
 This GitHub repository showcases various methods for solving nonlinear equations, offering a collection of solvers including Bisection, Newton-Raphson, Secant, Fixed Point Iteration, and Newton's Method with Multiple Roots. These numerical techniques provide versatile and efficient approaches to finding solutions for nonlinear equations and empower users with a comprehensive toolkit for solving complex mathematical problems.
 
 Key Features:
